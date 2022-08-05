@@ -1,2 +1,2 @@
-# Analisis-Nume
+# Analisis-Num
 Trabajos prácticos del laboratorio de la materia.
