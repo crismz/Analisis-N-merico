@@ -1,0 +1,6 @@
+Para el ejercicio 1:
+	 Primero que nada revisar que el programa lea el archivo irma.csv, en mi compu tuve que poner la ruta del archivo desde el home (Escritorio/LaboratorioAnnumerico/Parcial2/irma.csv). En linea 7 del código. 
+	Cuando se ejecuta el programa, aparecen dos figuras y dos arreglos por consola. La primer figura es del inciso a, la segunda del inciso b y los arreglos hacen referencia a las estimaciones de las longitudes y latitudes cada una hora.
+   
+Para el ejercicio 2:
+	Cuando se ejecuta el programa, va a aparecer el gráfico del inciso a) y por consola la respuesta del inciso c.
