@@ -1,11 +1,11 @@
 # Analisis-Num
-Trabajos prácticos del laboratorio de la materia.
+Practical laboratory work for the subject.
 
-Los temas son los siguientes:
-1. Analisis de Erorres 
-2. Ecuaciones no lineales
-3. Interpolacion númerica
-4. Aproximación de funciones
-5. Integración númerica
-6. Ecuaciones lineales
-7. Programación lineal
+The topics are as follows:
+  1. Error Analysis
+  2. Nonlinear Equations
+  3. Numerical Interpolation
+  4. Function Approximation
+  5. Numerical Integration
+  6. Linear Equations
+  7. Linear Programming
